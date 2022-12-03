@@ -1,29 +1,28 @@
-# Fashion Cube-Ecommerce Application
+# E-Commerce App
 
 #General Info
 
-front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
-
-[Live Demo](https://quintuslabs.github.io/fashion-cube)
+front-end: React, Redux, Router, API, Axios, SASS, SCSS, React-Bootstrap
 
 ## This project is created using:
 
 - [x] Monorepo
 - [x] Lerna
-- [x] Design System
+- [x] UX/UI & Mobile Responsive Design
 - [x] Hooks
 - [x] Redux
+- [x] SEO
 
 ## Future Features
 
 - Home (List products)
-- Detail products
-- Product category
-- Recommended products
+- Detail Products
+- Product Category
+- Recommended Products
 - Cart
 - Login / Register
 
-# ScreenShot
+# Project images
 
 <img src="screen/screen1.png">
 <img src="screen/screen2.png">
